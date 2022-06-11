@@ -10,4 +10,4 @@ a simple calculator that preforms basic math operations:
 
 ## code focus
 the script code focuses on using custom attributes to store values required for the mentioned math operations.
-Try it here: [need a Calculator?](https://edd1eyy.github.io/Rock-Paper-Scissors-full.ver/) .
+Try it here: [need a Calculator?](https://edd1eyy.github.io/the-Super-Original-Calculator/) .
